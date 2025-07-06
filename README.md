@@ -39,15 +39,17 @@ This is a complete end-to-end data analytics project using **SQL + Power BI** to
 
 ---
 
-## 🖼️ Dashboard Screenshots
+## 🖼️ Dashboard Image 
 
-### 📌 Customer Overview Report
+### 📌 Credit card Customer Report
 ![Customer Report](https://github.com/Nandini2233/PowerBI_CreditCard_Financial_Dashboard/blob/main/CreditCard_Customer%20Report.png)
 
-### 📌 Transaction & Revenue Insights
+### 📌 Credit card Transaction Report
 ![Transaction Report](https://github.com/Nandini2233/PowerBI_CreditCard_Financial_Dashboard/blob/main/CreditCard_Transaction%20Report%20.png)
 
 ---
 
-## 📁 Project Structure
+
+
+
 
