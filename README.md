@@ -1,10 +1,7 @@
-# PowerBI_CreditCard_Financial_Dashboard
-End-to-end Power BI project on credit card financial data. Includes data cleaning, DAX measures, data modeling, and interactive dashboard creation.
  # 💳 Power BI Credit Card Financial Dashboard
 
 This is a complete end-to-end data analytics project using **SQL + Power BI** to analyze credit card customer data. It simulates a real-world business use case with financial KPIs, customer segmentation, and actionable insights.
 
-Built while preparing for the **EY Entry-Level Data Analytics Internship**, this project showcases job-ready skills in data extraction, modeling, visualization, and business understanding.
 
 ---
 
@@ -48,7 +45,7 @@ Built while preparing for the **EY Entry-Level Data Analytics Internship**, this
 ![Customer Report](https://github.com/Nandini2233/PowerBI_CreditCard_Financial_Dashboard/blob/main/Credit_Card_Customer%20Report.pdf)
 
 ### 📌 Transaction & Revenue Insights
-![Transaction Report](transaction_report.png)
+![Transaction Report](https://github.com/Nandini2233/PowerBI_CreditCard_Financial_Dashboard/blob/main/Credit_Card_Transaction%20Report.pdf)
 
 ---
 
